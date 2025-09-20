@@ -29,6 +29,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Hire Me"
+    url: /hire-me/
+
   # - title: "CV"
   #   url: /cv-json/
 
