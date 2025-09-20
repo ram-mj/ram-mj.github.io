@@ -12,13 +12,13 @@ Hey there. I'm a network engineer and systems administrator. In simple terms, I 
 My goal is pretty straightforward: to handle the behind-the-scenes tech so you can focus on your work.
 Here's what I'm good at:
 
-    Building & Securing Networks: I design and manage networks from the ground up (TCP/IP, DNS, Routing, Switching). Security is always top of mind, so I'm well-versed in firewalls, security protocols, and VPNs.
+Building & Securing Networks: I design and manage networks from the ground up (TCP/IP, DNS, Routing, Switching). Security is always top of mind, so I'm well-versed in firewalls, security protocols, and VPNs.
 
-    Keeping Systems Healthy: I'm comfortable in both Linux (Ubuntu, CentOS) and Windows (Server & Desktop) environments, including managing Active Directory.
+Keeping Systems Healthy: I'm comfortable in both Linux (Ubuntu, CentOS) and Windows (Server & Desktop) environments, including managing Active Directory.
 
-    Making Life Easier with Automation: I use tools like Ansible, Docker, and scripting (Bash, PowerShell, Python) to automate repetitive tasks and streamline workflows.
+Making Life Easier with Automation: I use tools like Ansible, Docker, and scripting (Bash, PowerShell, Python) to automate repetitive tasks and streamline workflows.
 
-    Finding the Problem: When things get weird, I can break out tools like Wireshark, GNS3, and Packet Tracer to diagnose what's going on.
+Finding the Problem: When things get weird, I can break out tools like Wireshark, GNS3, and Packet Tracer to diagnose what's going on.
 
 If you're looking for someone to tackle an infrastructure project or just want your systems to be more reliable, I'd love to chat.
 
