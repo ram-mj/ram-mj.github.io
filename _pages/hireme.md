@@ -6,20 +6,21 @@ author_profile: false
   - /hire-me.html
 ---
 
+Hey there.
+I'm a experienced IT engineer having expertise in network engineering and system administration, And have a keen interest in engineering, I constantly looking for new challenges and projects.
 
-Hey there. I'm a network engineer and systems administrator. In simple terms, I build and maintain the digital backbone that your business runs on—making sure it's stable, secure, and doesn't cause you headaches. I genuinely enjoy the challenge of making complex tech infrastructure run smoothly.
+- **System Administration** :- Linux & Windows administration, installation, configuring, security hardening and maintaining Linux and Windows server environments, alongside managing enterprise-level Active Directory.
+- **Networking & Security** :- Home networks, SOHO networks design, configuring, and maintenance, overseeing network infrastructure, troubleshooting connectivity issues, and implementing advanced security protocols to safeguard against threats.
+- **Network & System Automation** :- Using tools like Ansible, Docker, and scripting (Bash, PowerShell, Python) to automate repetitive tasks and streamline workflows.
+- **Cloud Architect** :- Setting up cloud infrastructure in cloud providers like AWS, Azure, Google Cloud, and others, configuring, maintaining and troubleshooting.
+- **Privacy & Anonymity** :- Deploying privacy-focused solutions to secure communications and reduce digital footprints..., personal OSINT reports.
+- **Cybersecurity Best Practices** :- Ensuring adherence to security standards and continuously monitoring for emerging vulnerabilities.
+- **IT Engineer**:- Setting up Google workspace, and Microsoft office, mail, for businesses. And Bussiness tools and websites. Technical Documentation documenting IT/Tech infrastructure.
+- **Help Desk & Technical Support** :- Any assistance about tech, with remote assistance. Personal computers, OS installation, Software installation and configuring.
 
-My goal is pretty straightforward: to handle the behind-the-scenes tech so you can focus on your work.
-Here's what I'm good at:
+Below are my technical skills:
+**Network Engineering, Network Security, Network Design, Systems Engineering, Cloud Service (AWS), Virtualization, Routing & Switching, Security Protocols, Firewalls, Network Monitoring, VPN Configuration, Linux (Ubuntu, CentOS), Wireshark, Cisco Packet Tracer, GNS3, Scripting (Bash, Python, PowerShell), DNS, Digital Networking, Amazon Web Services (AWS), Operating Systems (Linux, Windows Server, Windows Desktop), Network Administration, VPN, System Administration, Active Directory, Helpdesk, CMS (Content Management Systems), Desktop Support, Troubleshooting, Windows Server Support, Windows Desktop Support, Helpdesk Support, Basic Networking.
 
-Building & Securing Networks: I design and manage networks from the ground up (TCP/IP, DNS, Routing, Switching). Security is always top of mind, so I'm well-versed in firewalls, security protocols, and VPNs.
+If you're looking for someone to tackle an project or just want your systems to be more reliable, I'd love to chat.
 
-Keeping Systems Healthy: I'm comfortable in both Linux (Ubuntu, CentOS) and Windows (Server & Desktop) environments, including managing Active Directory.
-
-Making Life Easier with Automation: I use tools like Ansible, Docker, and scripting (Bash, PowerShell, Python) to automate repetitive tasks and streamline workflows.
-
-Finding the Problem: When things get weird, I can break out tools like Wireshark, GNS3, and Packet Tracer to diagnose what's going on.
-
-If you're looking for someone to tackle an infrastructure project or just want your systems to be more reliable, I'd love to chat.
-
-Feel free to reach out at **rams@disroot.org**
+Feel free to reach out at **Janakirammalladi10[@]gmail.com** And contact me in telegram **@unbyt**.
